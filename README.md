@@ -1,4 +1,4 @@
-[READMR.md](https://github.com/user-attachments/files/24638710/READMR.md)
+
 # Introduction
 
 This SQL project was developed as part of the “SQL for Data Analystics” course by Luke Barousse. It focuses on analyzing the data analytics job market including :
