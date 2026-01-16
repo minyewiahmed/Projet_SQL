@@ -1,4 +1,3 @@
-
 # Introduction
 
 This SQL project was developed as part of the “SQL for Data Analystics” course by Luke Barousse. It focuses on analyzing the data analytics job market including :
@@ -8,5 +7,7 @@ This SQL project was developed as part of the “SQL for Data Analystics” cour
 - Most in-demand technical skills
 
 - The intersection between high-demand skills and high salaries
+
+- Top locations that offer high salary for Data Analyst role
 
 You will find SQL queries here : [project_sql folder](/project_sql/)
